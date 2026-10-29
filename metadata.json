@@ -1,0 +1,6 @@
+{
+  "name": "Bayani Alert - Emergency Dispatch & Real-Time GPS Tracking",
+  "description": "Mabilis na emergency response at alert command center na may real-time GPS tracking, push notifications, at modernong purple dashboard.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
